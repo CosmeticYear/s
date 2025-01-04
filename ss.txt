@@ -1,0 +1,1 @@
+game.Players.DontLosePlz.PlayerGui.GameGUI.ClassSelection.ScrollingFrame.wawablaster.Visible = true
